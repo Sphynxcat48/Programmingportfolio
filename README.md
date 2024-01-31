@@ -10,6 +10,10 @@
 ### SpaceGame 
 OOP graphical game using images and animation.
 
-![Gameplay](https://github.com/Sphynxcat48/Programmingportfolio/blob/main/images/GameOverSpaceGame.png)
+![GameOver](https://github.com/Sphynxcat48/Programmingportfolio/blob/main/images/GameOverSpaceGame.png)
+
+![StartScreen]()
+
+![GamePlay]()
 
 [Source code]()
