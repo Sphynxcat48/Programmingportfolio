@@ -17,3 +17,8 @@ OOP graphical game using images and animation.
 ![GameOver](https://github.com/Sphynxcat48/Programmingportfolio/blob/main/images/GameOverSpaceGame.png)
 
 [Source code](https://github.com/Sphynxcat48/Programmingportfolio/blob/main/src/SpaceGame.zip)
+
+### Calculator
+OOP graphical calulator with special functions and keyboard listeners
+
+![Calculator]()
