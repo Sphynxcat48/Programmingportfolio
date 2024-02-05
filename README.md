@@ -23,6 +23,10 @@ OOP graphical calulator with special functions and keyboard listeners
 
 ![Calculator](https://github.com/Sphynxcat48/Programmingportfolio/blob/main/images/CalculatorInterface.png)
 
-[Source code]()
+[Source code](https://github.com/Sphynxcat48/Programmingportfolio/blob/main/src/Calculator.zip)
 
 ### Conversion App
+
+![Conversion App]()
+
+[Source code]()
