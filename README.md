@@ -45,3 +45,12 @@ OOP graphical calulator with special functions and keyboard listeners
 ![Conversion App]()
 
 [Source code]()
+
+### WasmTetris
+
+#### A web based tetris clone that runs on webassembly with basic WASD controls.
+
+#### Live at: (https://sphynxcat48.github.io/Wasmtetris/)
+
+#### Github: (https://github.com/Sphynxcat48/Wasmtetris)
+
