@@ -5,6 +5,17 @@
 * ECS USOE State Certifiction
 ## Group Projects 
 
+### Encrypter
+
+#### Martin, Iris, and Peter
+
+#### A web based program that uses c++ converted to WASM to convert text.
+
+
+#### Live at: ( https://sphynxcat48.github.io/Encrypter/)
+
+#### Github: (https://github.com/Sphynxcat48/Encrypter)
+
 ## Individual Projects 
 
 ### SpaceGame 
