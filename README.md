@@ -5,6 +5,8 @@
 ## Tech Certifications
 * Computer Programming 1 USOE State Certification
 * ECS USOE State Certifiction
+* Computer Programming 2 C++
+  
 ## Group Projects 
 
 ### Encrypter
